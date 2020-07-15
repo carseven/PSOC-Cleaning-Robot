@@ -1,0 +1,6 @@
+C:\Users\carles\Google Drive\Universidad\28. SIT\Miniproyecto\MiniProyecto\MiniProyecto.cydsn\MiniProyecto.cyprj|35dfde84-6eba-4581-a278-46a683e48fe0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|1d1c7107-e3e5-463c-8bea-7913b620641b
+C:\Users\carles\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|d25661b4-b311-45f4-b23b-5849e537392b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|faecd57e-87ef-458a-bf79-516006b0a548
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|33c332b5-f471-4e9b-b0a0-4c7947a8124e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1aea605d-dcd0-4d2f-8e30-7d172cbad925

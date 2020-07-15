@@ -1,0 +1,114 @@
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/ADC.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/ADC_IRQ.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/ADC_intClock.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Clock.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Clock_1.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Clock_2.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Counter.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Counter_Int.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/CyDMA.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Echo.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Echo_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_1.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_2.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_3.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_A.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_A_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_B.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_B_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Azul.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Azul_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_IR.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_IR_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorA_A.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorA_A_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorA_R.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorA_R_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorB_A.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorB_A_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorB_R.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorB_R_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Rojo.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Rojo_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Verde.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Verde_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Zumbador.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Zumbador_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Trigger.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Trigger_aliases.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cmsis_armcc.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cmsis_compiler.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cmsis_gcc.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/core_cm0.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/project.h C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/main.c 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/ADC.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/ADC_IRQ.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/ADC_intClock.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Clock.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Clock_1.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Clock_2.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Counter.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Counter_Int.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/CyDMA.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Echo.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Echo_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_1.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_2.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_3.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_A.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_A_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_B.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/PWM_B_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Azul.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Azul_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_IR.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_IR_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorA_A.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorA_A_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorA_R.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorA_R_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorB_A.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorB_A_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorB_R.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_MotorB_R_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Rojo.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Rojo_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Verde.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Verde_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Zumbador.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Pin_Zumbador_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Trigger.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/Trigger_aliases.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/Users/carles/Google\ Drive/Universidad/28.\ SIT/Miniproyecto/MiniProyecto/MiniProyecto.cydsn/main.c : 
+
